@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonupandit&label=Profile%20views&color=0e75b6&style=flat" alt="sonupandit" /> </p>
 
-- 👨‍💻 All of my projects are available at [sonupandit.github.io](sonupandit.github.io)
+- 👨‍💻 All of my projects are available at  <a href="https://sonupandit.github.io" target="_blank" rel="noreferrer">sonupandit.github.io</a>
 
 - 📫 How to reach me **pndtsonu@gmail.com**
 
